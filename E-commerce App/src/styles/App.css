@@ -1,0 +1,58 @@
+#header{
+    background-color: aqua;
+    height: 100px;
+    display: flex;
+}
+
+#head{
+    padding-left: 200px;
+    margin-top: 30px;
+    font-size: 40px;
+    color: #775fb9;
+}
+
+.card{
+    border: 5px solid black;
+    margin: 10px;
+    background-color: rgb(203, 248, 152);
+    max-width: fit-content;
+    margin-left: 450px;
+    padding: 0px 30px;
+}
+
+.d{
+    font-size: 20px;
+    max-width: 400px;
+}
+img{
+    width: 400px;
+}
+
+.btn{
+    padding: 0px , 10px;
+    width: 150px;
+    margin-bottom: 20px;
+    height: 30px;
+    margin-left: 135px;
+}
+
+.p{
+    font-size: 30px;
+    margin-left:170px ;
+}
+
+.title{
+    color: rgb(123, 31, 199);
+    text-align: center;
+}
+#min{
+    background-color: rgb(29, 74, 114);
+}
+
+#m{
+    height: 60px;
+    width: 60px;
+    margin-top: 0px;
+    margin-left: 700px;
+    margin-top: 20px;
+}
